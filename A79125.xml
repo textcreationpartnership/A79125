@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles by the grace of God, King of great Britain, France and Ireland, Defender of the Faith. To our lovits [blank] Our Lion King at Armes, his brethren heralds [blank] pursevants our sheriffs in that part conjunctly and severally specially constitute, greeting forsameikle as James Grahame sometime Earle of Montrose, and Alaster MacDonald, having associate to themselves some Irish rebels, and unnaturall countreymen, ...</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79125</idno>
+            <idno type="STC">Wing C2827</idno>
+            <idno type="STC">Thomason 669.f.9[56]</idno>
+            <idno type="STC">ESTC R212289</idno>
+            <idno type="EEBO-CITATION">99870927</idno>
+            <idno type="PROQUEST">99870927</idno>
+            <idno type="VID">161154</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161154)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f9[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles by the grace of God, King of great Britain, France and Ireland, Defender of the Faith. To our lovits [blank] Our Lion King at Armes, his brethren heralds [blank] pursevants our sheriffs in that part conjunctly and severally specially constitute, greeting forsameikle as James Grahame sometime Earle of Montrose, and Alaster MacDonald, having associate to themselves some Irish rebels, and unnaturall countreymen, ...</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Issue date and imprint from Wing.</note>
+                  <note>With engraving of royal seal at head of document.</note>
+                  <note>"A proclamation issued by the Parliament of Scotland forbidding the people to 'reset, supply, intercommune or keep intelligence or correspondence' with the Marquess of Montrose or Alastair Macdonald (MacColla). Issued at Saint-Andrews, the date being left blank. This proclamation was ordered by an Act of the Scottish Parliament, 8 Jan."--Thomason.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Montrose, James Graham, --  Marquis of, 1612-1650 --  Early works to 1800.</term>
+               <term>MacColla, Alasdair, d. 1647 --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161154:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES, By the grace of God, King of Great Britain, France and Ireland, Defender of the Faith. </signed>
+               <salute>To our Lovits, <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Our Lion King at Armes, his brethren He<g ref="char:EOLhyphen"/>ralds <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Purſevants Our Sheriffs in that part conjunctly and ſeverally ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Forſameikle as <hi>James Grahame</hi> ſometime Earle of <hi>Montroſe,</hi> and <hi>Alaſter Mac<g ref="char:EOLhyphen"/>Donald,</hi> having aſſociate to themſelves ſome Iriſh Rebels, and unnaturall Countrey<g ref="char:EOLhyphen"/>men, have broken out in open Rebellion againſt God, and his Covenant, Us, and Our Authority, This their native Kingdom, and its Liberty and Peace, have killed and maſſacred divers of our good Subjects, ſpoiled their Lands, burnt their Houſes, and do yet deſperately continue, acting ſundry Villanies and Outrages in all parts of the Countrey where they come; endeavouring thereby (ſo far as in them lies) the ſubverſion of the true Religion, and the juſt Lawes and Liberties of this Our ancient Kingdom. And We being confident that all who have any love to Religion, loyaltie to Us their Soveraign, or regard to their Oath in the mutuall League and Covenant, will be ſo far from complying with theſe baſe Rebels, that they will heartily concur with their utmoſt power to oppoſe and purſue them. Yet, left any, out of fear, or diſ<g ref="char:EOLhyphen"/>loyalty of their own hearts, ſhould be ſo far wanting in their duty, as to comply, or beany wayes aſſiſting to them, We have thought fitting, according to an Act of Our Parliament, of the date of thir preſents, to give Warning to them of the danger they may incurre hereby. And for that end,<lb/>
+OUR WILL IS, and we charge you ſtraitly and commands, that incontinent thir our Letters ſeen, you paſſe to the Market-Croſſes of Our Burrows of <hi>Edinburgh, Dundee, Perth, Aberdene, Stirling, Glaſgow,</hi> and S. <hi>Andrews,</hi> which is declared by the Act of Our Parliament to be a ſufficient intimation to Our Lieges, and there by open Proclamation hereof, that you Command, Charge, and Inhibit all Our Subjects, that none of them preſume, nor take upon hand to Refer, Supply, Intercommune, nor keep Intelligence nor Correſpondence with the ſaids <hi>James Grahame, Alaſter Mac-Donald,</hi> or any of their Aſſociates or Complices, nor furniſh them with Meat, Drink, Houſe, Harberie, nor other comfortable thing, under the pain of Treaſon; and certifying all ſuch as ſhall failzie herein, the ſaid pain ſhall be execute upon them without favour. The which to do, we commit to you conjunctly and ſeverally our full power, be thir Our Letters, delivering the ſame be you duely execute and indorſed again to the Bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet at S. <hi>Andrews,</hi> 
+                  <date>the <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> day of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and of Our Reign the 26 yeer 1646.</date>
+               </dateline>
+Per actum Parliamenti.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
